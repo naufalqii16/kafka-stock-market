@@ -1,0 +1,4 @@
+kafka-stock-market-project/
+.env
+*.pem
+naqiqi-admin-kafka-stock*
